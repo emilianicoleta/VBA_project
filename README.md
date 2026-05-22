@@ -16,7 +16,7 @@ Verificări de:
 
 
 ✔️ Tehnologii folosite:
-Excel VBA
-UserForms
-FileSystem automation
-reguli statistice de validare
+- Excel VBA
+- UserForms
+- FileSystem automation
+- reguli statistice de validare
